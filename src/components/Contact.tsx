@@ -1,4 +1,3 @@
-import React from 'react';
 
 const Contact: React.FC = () => {
   const whatsappNumber = "5512999999999"; // Replace with actual WhatsApp number
