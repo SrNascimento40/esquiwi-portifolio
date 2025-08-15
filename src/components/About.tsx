@@ -4,7 +4,7 @@ const About: React.FC = () => {
   const features = [
     {
       title: "Experiência Inesquecível",
-      description: "Tenha uma experiência inesquecível com seus filhos! Com criatividade, alegria e energia contagiante, transformamos cada evento em uma celebração memorável e cheia de diversão!",
+      description: "Tenha uma experiência inesquecível com suas crianças! Com criatividade, alegria e energia contagiante, transformamos cada evento em uma celebração memorável e cheia de diversão!",
       icon: "🎉"
     },
     {

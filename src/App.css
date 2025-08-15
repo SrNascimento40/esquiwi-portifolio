@@ -34,6 +34,7 @@ body {
 /* Smooth Animations */
 .hero-section {
   animation: fadeIn 1s ease-in;
+  width: 100vw;
 }
 
 @keyframes fadeIn {

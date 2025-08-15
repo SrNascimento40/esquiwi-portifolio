@@ -24,15 +24,15 @@ const Contact: React.FC = () => {
               
               <div className="mb-5">
                 <h3 className="h4 fw-bold mb-3" style={{ color: '#ADFF2F' }}>
-                  Casamentos com Recreação?
+                  Eventos com Recreação?
                 </h3>
                 <p className="lead mb-4">
-                  Criar um espaço acolhedor, tornar os pequenos parte da festa!
+                  Criamos um espaço acolhedor, tornamos os pequenos parte da festa!
                 </p>
                 
                 <div className="wedding-services">
                   <h5 className="fw-bold mb-3" style={{ color: '#FFD700' }}>
-                    PACOTES DE CASAMENTOS
+                    PACOTES INCLUEM:
                   </h5>
                   <div className="row g-2">
                     {weddingServices.map((service, index) => (
@@ -43,17 +43,6 @@ const Contact: React.FC = () => {
                         </div>
                       </div>
                     ))}
-                  </div>
-                </div>
-                
-                <div className="mt-4 p-3 rounded" style={{ backgroundColor: 'rgba(173, 255, 47, 0.1)' }}>
-                  <div className="d-flex align-items-center">
-                    <span className="me-2" style={{ fontSize: '20px' }}>📞</span>
-                    <span className="fw-bold">5h a 6h de festa</span>
-                  </div>
-                  <div className="d-flex align-items-center mt-2">
-                    <span className="me-2" style={{ fontSize: '20px' }}>🎨</span>
-                    <span className="fw-bold">Personalizável</span>
                   </div>
                 </div>
               </div>

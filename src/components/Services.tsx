@@ -72,26 +72,6 @@ const Services: React.FC = () => {
             </div>
           ))}
         </div>
-        
-        <div className="row mt-5">
-          <div className="col-12 text-center">
-            <a 
-              href="#contact"
-              className="btn btn-lg"
-              style={{ 
-                backgroundColor: '#FFD700',
-                color: '#4169E1',
-                border: 'none',
-                borderRadius: '50px',
-                padding: '15px 40px',
-                fontWeight: 'bold',
-                fontSize: '1.2rem'
-              }}
-            >
-              CHAME NO WHATSAPP
-            </a>
-          </div>
-        </div>
       </div>
     </section>
   );

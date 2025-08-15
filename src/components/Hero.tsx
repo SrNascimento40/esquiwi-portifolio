@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
                 LAZER & RECREAÇÃO
               </h2>
               <p className="lead mb-5" style={{ fontSize: '1.2rem' }}>
-                Tenha uma experiência <span className="fw-bold" style={{ color: '#ADFF2F' }}>inesquecível</span> com seus filhos! 
+                Tenha uma experiência <span className="fw-bold" style={{ color: '#ADFF2F' }}>inesquecível</span> com suas crianças! 
                 Com criatividade, <span className="fw-bold" style={{ color: '#ADFF2F' }}>alegria e energia contagiante</span>, 
                 transformamos cada evento em uma celebração memorável e cheia de 
                 <span className="fw-bold" style={{ color: '#ADFF2F' }}> diversão!</span>
